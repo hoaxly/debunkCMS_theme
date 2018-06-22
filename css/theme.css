@@ -35,3 +35,15 @@ a:visited {
 .field--name-field-review-item-media .field--type-image {
     float: none;
 }
+
+.node--type-review .field {
+    clear: both;
+}
+
+.teaser footer {
+    margin-bottom: 10px;
+}
+
+.feed-icons {
+    clear: both;
+}
