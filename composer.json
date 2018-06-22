@@ -1,0 +1,8 @@
+{
+  "name": "hoaxly/debunkcms_theme",
+  "description": "Includes some simple addons to the thunder base theme.",
+  "type": "drupal-theme",
+  "version": "8.x-1.0",
+  "license": "GPL-2.0-or-later",
+  "require": {}
+}
