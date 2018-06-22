@@ -1,0 +1,37 @@
+#header,
+body,
+.site-footer {
+    background-color: #222b30;
+}
+
+a.site-branding__logo {
+    display: block;
+    background-repeat: no-repeat;
+    background-size: 150px;
+    height: 150px;
+    width: 150px;
+}
+
+a,
+.link {
+    color: #1e5973;
+}
+
+a:hover,
+a:active,
+a:visited {
+    color: #222b30;
+}
+
+.field--type-entity-reference .field__label {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.field--name-field-review-item-media {
+    clear: both;
+}
+
+.field--name-field-review-item-media .field--type-image {
+    float: none;
+}
